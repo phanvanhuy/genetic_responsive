@@ -1,6 +1,8 @@
 @media (max-width:768px){
     .a{
         display: block;
+        height: 45vh;
+
     }
     .trai{
         width: 100%;

@@ -1,0 +1,16 @@
+@media (max-width:768px){
+    .anh{
+        display: block;
+    }
+  
+    .a{
+        width: 100%;
+        height: 45vh;
+    }
+    .zz{
+        text-align: center;
+    }
+
+
+
+}

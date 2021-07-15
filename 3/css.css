@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+.khung{
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+
+}
+.xanh{
+    background-color: darkseagreen;
+    height: 20vh;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.anh{
+    display: flex;
+    flex-wrap: wrap;
+}
+.a{
+    background-color: rgb(44, 111, 112);
+    height: 30vh;
+    width: calc((100% - 40px)/3);
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-image: url('https://img.freepik.com/free-photo/blue-sky-with-cloud_87394-8065.jpg?size=626&ext=jpg&ga=GA1.2.909295021.1623715200');
+    background-position: center;
+    
+}
+.a:nth-child(3n){
+    margin-right: 0;
+}
+.bo{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.zz{
+    border-bottom: 1px solid black;
+
+}

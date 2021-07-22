@@ -1,0 +1,31 @@
+@media screen and (max-width:767px){
+
+
+    .content>div{
+        width: 100%;
+        margin-right: 0px; 
+    }
+
+
+   
+    .menu{
+        display: none;
+    }
+    .right{
+        display: none;
+    }
+    .footer{
+        justify-content:center ;
+    }
+
+    .menuR{
+        transition: 0.8s;
+        opacity: 1;
+    }
+    .show{
+        transition: 0.8s;
+
+        opacity: 1;
+    }
+   
+}

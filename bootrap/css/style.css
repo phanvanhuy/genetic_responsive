@@ -1,0 +1,19 @@
+.form{
+    padding: 10px;
+}
+
+.fix{
+    display: flex;
+}
+
+.fix>div{
+    width: 50%;
+    padding: 10px;
+}
+
+.address{
+    margin: 10px;
+}
+.tick{
+    margin-left: 10px;
+}
